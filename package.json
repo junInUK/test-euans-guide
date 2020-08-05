@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    // "test": "mocha chatbot_test/chatbot_spec.js",
     "start": "node index.js"
   },
   "author": "",
